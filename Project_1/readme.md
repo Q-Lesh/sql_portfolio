@@ -141,7 +141,19 @@ ORDER BY
   avg_salary DESC;
 
 ```
-![Top Paying Skills](project_sql/images/top_paying_skills.png)
+| #  | Skill         | Avg Salary   | Category                      |
+|----|---------------|--------------|-------------------------------|
+| 1  | pyspark       | 208172.25    | big data                      |
+| 2  | bitbucket     | 189154.50    | devops/tools                  |
+| 3  | watson        | 160515.00    | AI/ML cloud services          |
+| 4  | couchbase     | 160515.00    | databases                     |
+| 5  | datarobot     | 155485.50    | AutoML                        |
+| 6  | gitlab        | 154500.00    | devops/tools                  |
+| 7  | swift         | 153750.00    | programming language          |
+| 8  | jupyter       | 152776.50    | python/tools                  |
+| 9  | pandas        | 151821.33    | python/data manipulation      |
+| 10 | elasticsearch | 145000.00    | search engine/databases       |
+
 *This table shows top 10 high paying skills for Data-related jobs. The third column was added in ChatGPT to show a broader field of knowledge of the mentioned skill*
 
 5. Most Optimal Skills to Learn
