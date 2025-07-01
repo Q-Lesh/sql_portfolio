@@ -141,7 +141,7 @@ ORDER BY
   avg_salary DESC;
 
 ```
-![Top Paying Skills](project_sql\images\top_paying_skills.png)
+![Top Paying Skills](project_sql/images/top_paying_skills.png)
 *This table shows top 10 high paying skills for Data-related jobs. The third column was added in ChatGPT to show a broader field of knowledge of the mentioned skill*
 
 5. Most Optimal Skills to Learn
@@ -197,7 +197,7 @@ LIMIT 10;
 
 ```
 
-![Optimal Skills](project_sql\images\optimal_skills.png)
+![Optimal Skills](project_sql/images/optimal_skills.png)
 *This chart shows top 10 optimal skills to have and shows what salary they are related to. This vizualization was made in ChatGPT*
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
@@ -223,5 +223,3 @@ From the analysis, several general insights emerged:
 ### **Conclusion**
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
-
-[def]: project_sql\images\top_demanded_data_analyst_skills.png
