@@ -115,7 +115,7 @@ LIMIT 5;
 
 ```
 
-![Top Demanded Data Analyst Skills](project_sql\images\top_demanded_data_analyst_skills.png)
+![Top Demanded Data Analyst Skills](project_sql/images/top_demanded_data_analyst_skills.png)
 *This bar graph shows top 5 demanded skills for Data Analysts. This vizualization was made in ChatGPT*
 
 ### 4. Skills Based on Salary
