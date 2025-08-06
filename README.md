@@ -115,7 +115,7 @@ LIMIT 5;
 
 ```
 
-![Top Demanded Data Analyst Skills](project_sql/images/top_demanded_data_analyst_skills.png)
+![Top Demanded Data Analyst Skills](/Project_1/project_sql/images/top_demanded_data_analyst_skills.png)
 *This bar graph shows top 5 demanded skills for Data Analysts. This vizualization was made in ChatGPT*
 
 ### 4. Skills Based on Salary
@@ -209,7 +209,7 @@ LIMIT 10;
 
 ```
 
-![Optimal Skills](project_sql/images/optimal_skills.png)
+![Optimal Skills](/Project_1/project_sql/images/optimal_skills.png)
 *This chart shows top 10 optimal skills to have and shows what salary they are related to. This vizualization was made in ChatGPT*
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
